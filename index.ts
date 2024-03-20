@@ -1,4 +1,6 @@
-#! /usr/bin/env node
+#! /usr/bin/env 
+
+let projectname: "make calculator"
 
 import inquirer from "inquirer";
 
